@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sekolah>
+
+<id >
+<nama>SD 067690</nama>
+<kategori>Negeri</kategori>
+<alamat>Jl. Karya Jaya </alamat>
+<kecamatan>Medan Johor</kecamatan>
+<kelurahan>Pangkalan Mahsur</kelurahan>
+<telp>0321864465</telp>
+</id>
+
+<id >
+<nama>SD Karang Sari</nama>
+<kategori>Swasta</kategori>
+<alamat>Jl. Mawar </alamat>
+<kecamatan>Medan Polonia</kecamatan>
+<kelurahan>Sari Rejo</kelurahan>
+<telp>0865356754445</telp>
+</id>
+
+<id >
+<nama>SD Semangat Bangsa </nama>
+<kategori>Swasta</kategori>
+<alamat>Jl. Karya Jaya</alamat>
+<kecamatan>Medan Johor</kecamatan>
+<kelurahan>Pangkalan Mahsur </kelurahan>
+<telp>083456843464</telp>
+</id>
+
+<id >
+<nama>SD Medan Independent School</nama>
+<kategori>Swasta</kategori>
+<alamat>Jl.Jamin Ginting Km10 </alamat>
+<kecamatan>Medan Tuntungan</kecamatan>
+<kelurahan>Mangga</kelurahan>
+<telp>086524569876</telp>
+</id>
+
+<id >
+<nama>SD 060788</nama>
+<kategori>Negeri</kategori>
+<alamat>Jl.Brigjend Katamso</alamat>
+<kecamatan>Medan Maimun</kecamatan>
+<kelurahan>Sei Mati</kelurahan>
+<telp>089076547986</telp>
+</id>
+
+<id >
+<nama>SD 060815</nama>
+<kategori>Negeri</kategori>
+<alamat>Jl.Halat</alamat>
+<kecamatan>Medan Kota</kecamatan>
+<kelurahan>Pasar Merah Barat</kelurahan>
+<telp>085953462415</telp>
+</id>
+
+<id >
+<nama>SD Prime One School</nama>
+<kategori>Swasta</kategori>
+<alamat>Jl.jend.besar A.H. Nasution</alamat>
+<kecamatan>Medan Amplas</kecamatan>
+<kelurahan>Harjosari II</kelurahan>
+<telp>087523771216</telp>
+</id>
+
+<id >
+<nama>SD Teladan</nama>
+<kategori>Swasta</kategori>
+<alamat>Jl.Pendidikan</alamat>
+<kecamatan>Medan Helvetia</kecamatan>
+<kelurahan>Cinta Damai</kelurahan>
+<telp>0823866509</telp>
+</id>
+
+<id >
+<nama>SD Alfitriah</nama>
+<kategori>Swasta</kategori>
+<alamat>Jl.Eka Surya</alamat>
+<kecamatan>Medan Johor</kecamatan>
+<kelurahan>Gedung Johor</kelurahan>
+<telp>087547856875</telp>
+</id>
+
+<id >
+<nama>SD As-syafiiah</nama>
+<kategori>Swasta</kategori>
+<alamat>Jl.Karya Wisata II</alamat>
+<kecamatan>Medan Johor</kecamatan>
+<kelurahan>Pangkalan Mashur</kelurahan>
+<telp>087656756176</telp>
+</id>
+
+</sekolah>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://www.detik.com/">
+  <dc:judul>detikcom - Informasi Terkini dan Terbaru Hari Ini</dc:judul>
+  <dc:tanggal>1998-07-09</dc:tanggal>
+  <dc:tipe>Website Berita</dc:tipe>
+  <dc:format>text/html</dc:format>
+  <dc:bahasa>Indonesia</dc:bahasa>
+</rdf:Description>
+<rdf:Description rdf:about="https://www.detik.com/">
+<dc:creator rdf:resource="https://www.detik.com/"/>
+</rdf:Description>
+
+</rdf:RDF>
